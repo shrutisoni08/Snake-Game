@@ -1,3 +1,4 @@
+window.alert( "Use Up/Down Arrow Keys To Move Snake!");
 const gameBoard = document.querySelector("#gameBoard");
 const ctx = gameBoard.getContext("2d");
 const scoreText = document.querySelector("#scoreText");
